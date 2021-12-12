@@ -1,16 +1,16 @@
 public class Main
 {
-    public Client currentClient;
+    public Client CurrentClient;
     private String Mail;
     private String Password;
     private Storage StorageInUse;
     
-    private void LoadPage(Client _client, Room[] _AvailableRooms)
+    private void LoadPage(Client client, Room[] AvailablePlaces)
     {
         
     }
     
-    private void Login(Client _client)
+    private void Login(Client client)
     {
         
     }

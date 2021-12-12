@@ -1,9 +1,9 @@
-public class Main
+public class Basket
 {
-    public Client currentClient;
-    public Room[] SelectedRooms;
+    public Client CurrentClient;
+    public PlaceToStay[] SelectedPlaces;
     
-    private void Buy(Room[] _SelectedRooms, string[] _PaymentInfo)
+    public void Buy(PlaceToStay[] SelectedRooms, string[] PaymentInfo)
     {
         
     }

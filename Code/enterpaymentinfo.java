@@ -4,7 +4,7 @@ public class enterpaymentinfo
     public String[] InfoInputs;
     private Storage StorageInUse;
     
-    private void EnterInfo(String[] _InfoInputs, public Client _currentClient;)
+    private void EnterInfo(String[] InfoInputs, Client client, Storage storage)
     {
         
     }

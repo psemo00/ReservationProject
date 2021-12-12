@@ -1,5 +1,5 @@
-public class Main
+public class Storage
 {
-    public Client[] AllClient;
-    public Room[] AllAvaliableRooms;
+    public Client[] AllClients;
+    public PlaceToStay[] AllAvaliablePlaces
 }
